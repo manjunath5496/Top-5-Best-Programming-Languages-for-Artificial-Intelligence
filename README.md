@@ -345,7 +345,27 @@ By-Step Guide to Learning Java Programming </a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(21).rar" style="text-decoration:none;">Sams Teach Yourself R in 24 Hours</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(22).pdf" style="text-decoration:none;">Metaprogramming in R: Advanced Statistical Programming
+for Data Science, Analysis and Finance</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(23).pdf" style="text-decoration:none;">Modeling and solving linear programming with R</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(24).pdf" style="text-decoration:none;">Business Analytics Using R - A Practical Approach</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(25).pdf" style="text-decoration:none;">Data Manipulation with R</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(26).pdf" style="text-decoration:none;">Introduction to Scientific Programming and Simulation Using R</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(27).pdf" style="text-decoration:none;">Quantitative Trading with R</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(28).pdf" style="text-decoration:none;">A Step-by-Step R Tutorial</a></b></li>
+  
+  
+  
+  
+  
+  
+  
+  
      
  </ul>
 
