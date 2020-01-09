@@ -298,14 +298,54 @@ By-Step Guide to Learning Java Programming </a></b></li>
  </ul>
 
 
+</br>
+
+<h2>R Programming: </h2>
+
+
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(1).pdf" style="text-decoration:none;">Efficient R Programming: A Practical Guide to Smarter Programming</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(2).pdf" style="text-decoration:none;"> Functional Programming in R: Advanced Statistical Programming for Data Science, Analysis and Finance</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(3).pdf" style="text-decoration:none;">Learn R for Applied Statistics: With Data Visualizations, Regressions, and Statistics</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(4).pdf" style="text-decoration:none;">Machine Learning with R</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(5).pdf" style="text-decoration:none;">Hands-On Programming with R</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(6).pdf" style="text-decoration:none;">R For Dummies</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(7).pdf" style="text-decoration:none;"> R in Action: Data analysis and graphics with R</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(8).pdf" style="text-decoration:none;">R Programming for Bioinformatics</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(9).pdf" style="text-decoration:none;">Prolog Programming in Depth </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(10).pdf" style="text-decoration:none;">R Programming Tutorial</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(11).pdf" style="text-decoration:none;">R Programming for Data Science</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(12).pdf" style="text-decoration:none;">Statistical Analysis with R</a></b></li>  
+   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(13).pdf" style="text-decoration:none;">The Art of R Programming: A Tour of Statistical Software Design</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(14).pdf" style="text-decoration:none;">The Book of R: A First Course in Programming and Statistics</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(15).pdf" style="text-decoration:none;">Prolog by Example: How to Learn, Teach and Use It</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(16).pdf" style="text-decoration:none;">The Practice of Prolog</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(17).pdf" style="text-decoration:none;">The Clean Coder: A Code of Conduct for Professional Programmers</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(18).pdf" style="text-decoration:none;">The Visual LISP Developers Bible</a></b></li>  
 
 
 
 
 
 
-
-
+     
+ </ul>
 
 
 
