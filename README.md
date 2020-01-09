@@ -359,8 +359,24 @@ for Data Science, Analysis and Finance</a></b></li>
    
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(28).pdf" style="text-decoration:none;">A Step-by-Step R Tutorial</a></b></li>
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(29).pdf" style="text-decoration:none;">Mastering Parallel Programming with R</a></b></li>
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(30).pdf" style="text-decoration:none;">R for Stata Users</a></b></li>
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(31).pdf" style="text-decoration:none;">R Markdown: The Definitive Guide</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(32).pdf" style="text-decoration:none;">R Programming and Its Applications in Financial Mathematics</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(33).pdf" style="text-decoration:none;">R Programming Succinctly</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(34).pdf" style="text-decoration:none;">Software for Data Analysis: Programming with R</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(35).pdf" style="text-decoration:none;">Beginning R: The Statistical Programming Language</a></b></li>
+  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/rpr(36).pdf" style="text-decoration:none;">R for Data Science: Import, Tidy, Transform, Visualize, and Model Data</a></b></li>
+  
+     
   
   
   
